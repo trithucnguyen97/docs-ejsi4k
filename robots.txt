@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-flpcmh.ratutogel45khi.cyou/sitemap.xml
